@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-07T00:49:39 IST" name="Default suite" finished-at="2022-10-07T00:49:54 IST" duration-ms="14672">
+    <groups>
+    </groups>
+    <test started-at="2022-10-07T00:49:39 IST" name="Default test" finished-at="2022-10-07T00:49:54 IST" duration-ms="14672">
+      <class name="LoginForm.LoginFormTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginForm.LoginFormTest@3ba9ad43]" started-at="2022-10-07T00:49:39 IST" name="setUp" finished-at="2022-10-07T00:49:43 IST" duration-ms="3314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="btestUserInput()[pri:0, instance:LoginForm.LoginFormTest@3ba9ad43]" started-at="2022-10-07T00:49:43 IST" name="btestUserInput" finished-at="2022-10-07T00:49:45 IST" duration-ms="2380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btestUserInput -->
+        <test-method signature="ctestUserPassword()[pri:0, instance:LoginForm.LoginFormTest@3ba9ad43]" started-at="2022-10-07T00:49:45 IST" name="ctestUserPassword" finished-at="2022-10-07T00:49:47 IST" duration-ms="2211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ctestUserPassword -->
+        <test-method signature="detestLink()[pri:0, instance:LoginForm.LoginFormTest@3ba9ad43]" started-at="2022-10-07T00:49:47 IST" name="detestLink" finished-at="2022-10-07T00:49:49 IST" duration-ms="2205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detestLink -->
+        <test-method signature="dtestCheckBox()[pri:0, instance:LoginForm.LoginFormTest@3ba9ad43]" started-at="2022-10-07T00:49:49 IST" name="dtestCheckBox" finished-at="2022-10-07T00:49:52 IST" duration-ms="2207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dtestCheckBox -->
+        <test-method signature="ftestLogInButton()[pri:0, instance:LoginForm.LoginFormTest@3ba9ad43]" started-at="2022-10-07T00:49:52 IST" name="ftestLogInButton" finished-at="2022-10-07T00:49:54 IST" duration-ms="2234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ftestLogInButton -->
+      </class> <!-- LoginForm.LoginFormTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
